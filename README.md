@@ -88,21 +88,28 @@ The method used for the project was CRISP-DM, apply as the steps below:
 
 # H1. - Stores with biggest assortment should sell more.
 
-FALSE Screen Shot 2022-05-05 at 6 53 12 AM
+FALSE 
+<img width="1164" alt="Screen Shot 2022-09-14 at 6 57 56 AM" src="https://user-images.githubusercontent.com/97919969/190174469-0a13780a-c5d7-4f8c-b40a-6bcd2e9372d8.png">
 
 # H2. - Stores with competitors around should sell less.
 
-FALSE Screen Shot 2022-05-05 at 6 56 32 AM
+FALSE 
+<img width="1172" alt="Screen Shot 2022-09-14 at 7 37 48 AM" src="https://user-images.githubusercontent.com/97919969/190185242-0f28b338-5432-4221-a18e-55ef46a7073c.png">
+
 
 # H3 - Opened stores on Christimas holliday should sall over/more.
 
 FALSE
 
-Screen Shot 2022-05-05 at 6 58 49 AM
+<img width="1092" alt="Screen Shot 2022-09-14 at 7 41 44 AM" src="https://user-images.githubusercontent.com/97919969/190186191-d24b155b-9b3a-4794-b679-4cd54bdf22ba.png">
+
+
 
 # H4. - Stores should sell more after 10th day of eatch month.
 
-TRUE Screen Shot 2022-05-05 at 7 01 11 AM
+TRUE 
+<img width="527" alt="Screen Shot 2022-09-14 at 7 43 31 AM" src="https://user-images.githubusercontent.com/97919969/190186612-1a72facf-78ad-468e-8a77-c906dfdc21bf.png">
+
 
 # Tested Machine Learning Models
 
@@ -113,11 +120,15 @@ TRUE Screen Shot 2022-05-05 at 7 01 11 AM
 - XGBoost Regressor
 - Machine Learning Model Performance
 
-Screen Shot 2022-08-26 at 9 25 29 AM
+# Machine Learning Models Performance
+<img width="517" alt="Screen Shot 2022-08-26 at 9 25 29 AM" src="https://user-images.githubusercontent.com/97919969/190188121-5462166c-9e6d-492b-b255-3c3d5b6b3b3c.png">
+
+
 
 # Machine Learning Performance after Hyperparemeter Fine Tuning
 
-Screen Shot 2022-08-26 at 8 35 08 AM
+<img width="462" alt="Screen Shot 2022-08-26 at 9 37 40 AM" src="https://user-images.githubusercontent.com/97919969/190188524-4131c779-f175-479b-909d-75fe0d4bbe06.png">
+
 
 Although the Random Forest Regressor Model presented better performance, this model usually requires a large amount of space on the server in deploy step, generating a significant cost increase for the company. Therefore, it was choosen the XGBoost Regressor Model, which after the hyperparameter fine tuning presented similar performance and requires less space on the server, generating a lower cost for the company.
 
@@ -162,6 +173,7 @@ Considering the first CRISP-DS cycle, the final model presented a usefull perfor
 
 #Contact
 https://www.linkedin.com/in/adriele-pinto/
+
 
 
 

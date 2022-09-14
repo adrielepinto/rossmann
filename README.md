@@ -1,11 +1,10 @@
 # Rossmann Store Salles Prediction
+Rossmann is a company witch operates over three thousand drugs stores, in seven European countries.
+
 ![img_sales](https://user-images.githubusercontent.com/97919969/187002748-1e0cb509-4ef9-43f8-bdbf-16a4da828b83.jpeg)
 
 
-# 1.0 Context:
-Rossmann is a company witch operates over three thousand drugs stores, in seven European countries.
-
-# 2.0. BUSINESS PROBLEM
+# BUSINESS PROBLEM
 
 Buget definition for the refurbishment of stores.
 
